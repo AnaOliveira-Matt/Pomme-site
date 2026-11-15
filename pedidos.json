@@ -1,0 +1,1 @@
+[ { "id_pedido": 0, "cliente": "Ana Clara", "data_pedido": "2026-11-14 10:30:00", "valor_total": 23.00, "status": "Recebido", "itens": [ { "produto": "Brownie de chocolate", "quantidade": 2, "preco_unitario": 7.00, "subtotal": 14.00 }, { "produto": "Cookie de gotas de chocolate", "quantidade": 1, "preco_unitario": 9.00, "subtotal": 9.00 } ] } ]
