@@ -3,7 +3,7 @@ Site a ser entregue para o trabalho interdisciplinar, desenvolvido com HTML, CSS
 
 ### Organização
 Há uma pasta contendo o código c#, dentro dela está o slnx e outra pasta que contem o resto do código.<br>
-Optamos por manter as imagens fora de uma pasta designada para ajudar com a edição do site já que construímos os sites em máquinas pessoais e achamos que assim seria mais fácil.
+Optamos por manter as imagens fora de uma pasta designada para ajudar com a edição do site já que construímos os sites em máquinas pessoais.
 
 ### Tecnologias usadas
 - HTML
