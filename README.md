@@ -1,2 +1,2 @@
 # Pomme-site
-Site
+Site a ser entregado para o trabalho interdisciplinar
